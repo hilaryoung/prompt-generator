@@ -1,0 +1,91 @@
+<html>
+	<head>
+		<title>HNY Prompt Generator</title>
+
+		<meta charset="utf-8">
+
+		<link rel="stylesheet" type="text/css" href="./style.css">
+		<script src="./rita.min.js"></script>
+	</head>
+
+	<body>
+
+		<!--Header title-->
+		<h1>Prompt Generator</h1>
+		<div class="toolDesc">
+			This tool follows the fundamentals of Markov Chain and is built with Rita.js. 
+			The purpose of this tool is to create a prompt generator that will give outputs related to AI, ML, Robotics, and technology. 
+			This is achieved by feeding the tool with over 500 text artefacts including books, academic reports, articles and poems 
+			related to the targetted field <b><a class="ext" href="resources.html" target="_blank">(View resources)</a></b>. 
+			The prompt will then be used to create short stories and poems using GPT3 
+			<b><a class="ext" href="default.asp" target="_blank">(View code)</a></b>.  
+		</div>
+
+		<br>
+
+		<hr>
+
+		<br>
+
+		<!--Parameter set up-->
+
+		<div class="row">
+			<div class="txtColumn">
+				Markov's Chain 'n' Gram:
+				<br>
+				<input type="number" id="myNumber" placeholder="n gram" class="inputForm">
+			</div>
+			<div class="txtColumn">
+				Number of lines to generate:
+				<br>
+				<input type="number" id="lines" placeholder="lines" class="inputForm">
+			</div>
+			<div class="txtColumn">
+				<br>
+				<button onclick="myFunction()" class="setButton">Set</button>
+			</div>
+		</div>
+
+
+		<p id="demo" class="warning"> </p>
+
+
+		
+
+		<h3>Write a short story about:</h3>
+
+		<main id="page-content">
+			<p id="textarea">
+				Please set 'n' gram and number of lines before generating
+			</p>
+			<button id="generatePrompt" class="buttonUI">Generate Prompt</button>
+		</main>
+
+
+
+
+		<br>
+
+		<div class="footer">
+
+			<div class="row">
+				<div class="column">
+					Hilary Young, CCI Creative Computing
+				</div>
+				<div class="column">
+					<a href="https://hnycci.cargo.site/" target="_blank">View documentation</a>
+				</div>
+				<div class="column">
+					<a href="https://hnycci.cargo.site/" target="_blank">View portfolio</a>
+				</div>
+			</div>
+
+		</div>
+
+		
+
+
+
+		<script src="./main.js"></script>
+	</body>
+</html>

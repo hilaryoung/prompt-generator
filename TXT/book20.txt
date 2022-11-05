@@ -1,0 +1,313 @@
+“Breakwater​”​ by Simon Bestwick is a science fiction novelette about an engineer—who with her late, marine biologist husband designed an underwater research platform—caught up in the war between humans and mysterious creatures beneath the seas that are destroying coastal cities around the world.
+ 
+ 
+I. HMS Dunwich
+The wreck-buoy bells rang in the mist, among the low-tide ruins. Hunched against the cold, Cally steered the dinghy between shoal and brickwork and the hulks of rusting cars.
+Dull, fitful lights gleamed in the fog. Their maintenance was a low priority, as most of the pumphouse and lightship crews were airlifted on and off, but Cally had never liked helicopters; give her a small boat any day. You always were awkward, Ben would have said.
+The surviving parts of the city loomed like a black ridge of shadow to Cally’s right. The cliffs of the Suffolk coast were essentially banks of compacted gravel and sand. Even the gentlest tides wore them steadily away, and when storms raged or flood waters rose, another piece of land fell into the hungry waves.
+There wasn’t as much recent wreckage farther out, and the water—even at low tide—was deeper. Cally sailed over houses, streets, and churches. A foghorn sounded in the mist.
+A bigger, more powerful glow shone through the fog; Cally steered towards it, opening the dinghy’s throttle.
+The ship emerged from the mist. Originally it had been painted red, but was now streaked green and orange by weed and rust. It rocked gently in the swell, tugging at its anchor chains. Above the peeling characters LVR36 on its side (light vessel relays were rarely graced with a proper name) a crewman waved from the deck.
+On the ship’s seaward side, a wooden pontoon, secured to the hull by ropes and chains and kept afloat by a score of buoys, served as a crude but effective staithe. Cally moored the dinghy and climbed out. The boards were spongy and damp.
+The docking station stuck out of the water by the pontoon, its side covered with barnacles, limpets, hanging rags of mussels and weeds. Around its top, at right angles to one another, were four circular hatches, one of which directly overlooked the staithe. Cally pulled on her thick gloves before climbing the ladder bolted to the side; the rungs were jagged with rust. At the top she spun the wheel in the centre of the recessed hatch and pushed it open.
+On the other side of the airlock, a second ladder led down to the bottom of the forty-foot cylinder. The dull sun glimmered through the toughened glass panels in the hatches. Waves slapped against the module’s hull as Cally climbed down, so that it hummed like a struck bell.
+Another airlock led into another metal cylinder, laid flat rather than on end. Rows of toughened glass portholes ran along the sides. Outside, fish wove in glittering swarms through the ruins of homes, cars half-buried in silt, the hulls of boats brought to grief.
+Ben would have loved swimming through this seascape, studying whatever had made its home among the ruins. But Suffolk wasn’t like the Greek islands he’d loved—no white, sugar-soft sand to make love on, naked and shiny with lotion. Try that here, you’d end up with pneumonia. She carried on down the module to the transport station.
+The station was a wide, squared-off structure, in which four golf carts stood with their bare wheels slotted into mounted rails. A plaque was mounted on the wall:
+HMS Dunwich
+Permanent Underwater Modular Platform
+Cally saw herself in the polished brass: a small, lean woman in her late forties, deep red hair and a strong-boned face. Jeans, sweater, biker jacket, a grey butcher-boy cap. Out of place on Dunwich, but perfect for Breakwater.
+The golf carts had no steering wheels, only half a dozen numbered buttons. Cally pushed one and leant back in the cart as it whirred along the rails, out of the station.
+Cally’s ears popped as the cart travelled down the tunnel from the station, down the slope of the seabed. The view outside the windows dimmed and what submerged wreckage could be seen was sparser, more heavily overgrown.
+The cart halted in another station. Cally opened the floor hatch and climbed down into the bridge.
+The bridge was sixty feet across and thirty high; a broad railed walkway ran around it halfway up, where Harkness sat in her captain’s chair. The station commander glanced up, grunted, “Doctor McDonald,” and looked away.
+Harkness’s dismissive greeting was a ritual now, albeit one that never failed to piss Cally off. You wouldn’t have this place without me, without Ben, she often felt like shouting. None of this would exist. But her position here, all she had left of what she and Ben had tried to build, was allowed her less because she’d created the pumphouses than because accommodating her was no trouble. (Although occasionally, even Harkness would have grudgingly admitted, she was useful.)
+So, as always, Cally said nothing and plodded across the bridge, boots clanking on the steel deck-plates. She zipped up her jacket; with a dozen wall fans in operation to prevent the computer systems overheating, the bridge was always cold. There was a low hubbub of human and electronic chatter, and a faint smell of rust and sweat.
+Cally sat down at her desk in the corner. The transmitter had been automatically broadcasting throughout the night while she’d been ashore, the hydrophones recording. She uploaded the MP3 files to her laptop and skimmed through them, watching the recordings’ peaks and troughs. By now she was used to the sea’s speech patterns—sonar echoing off fish shoals, the clicks and whistles of dolphin pods, the dull thuds of mines and depth charges, the remorseless rise and abrupt peak of a Chorale. Nothing new; no answer to the calls she sent, over and over, into the depths.
+Maybe there never would be. Maybe no-one listened, or no-one who cared. She wished for Ben, as she did a dozen times a day even now; for a moment, she almost felt his warm hand on hers. But only almost. Never truly. And that was never enough.
+“Cuppa, ma’am?” A fresh-faced naval rating proffered a steaming mug.
+“Thanks.” She smiled at him and he flushed a little, looking down. He was about twenty, less than half her age. Cally wondered if she should feel flattered.
+The boy glanced over at Harkness, who was deep in conversation with Sub-Lieutenant Cannonbridge, the Gunnery Officer. “Can I, um, ask you something?” He was fair-haired and pale, with a face so unstamped by experience Cally couldn’t believe he was old enough to join up.
+“You can ask,” she said.
+He blinked. Cally took pity on him. “Course you can, love,” she said. Love. That had slipped out before she could stop it. He turned even redder. “Ask away,” she said, “Mister…”
+“B-Baker,” he stammered. “Is it true you built this place?”
+“No.” Baker blinked some more. “I designed it with my husband. Of course, it was a lot smaller then.”
+“You designed Dunwich?” He looked thoroughly awed. Bless him. “Wow.”
+HMS Dunwich: the name stung. Cally shook her head. “It’ll always be Breakwater to me. That’s the name Ben gave it.”
+“Ben?”
+“My husband.” She nodded around the bridge. “This was Breakwater—this, the module upstairs, a couple of others. They towed it out here on floats and sank it. And we showed them it could work.”
+The pumphouse, originally no bigger than a couple of semi-detached homes, had expanded massively, till it now extended along several miles of the Norfolk and Suffolk coasts in both directions and almost five miles out to sea. A giant 3-D spiderweb of modules, crusted with weed and barnacles and glimmering with tiny lights, alone in the depths. Similarly, its original role as a scientific installation had been reduced to little more than a sideshow, a sop to its creator. Cally imagined it was like looking at a child that had grown up into a foul-mouthed, unruly teenager: barely recognisable as the fragile, beautiful thing she’d created, but she loved it, anyway, for what it had been.
+“Your husband?”
+“He was the diver.” Ben’s grin, his hair drying shaggy and salt-crusted in the wind and sun. Kisses on a Mediterranean beach, tasting of brine, beside a driftwood fire. “He got me into it, too. For fun, I mean.”
+Baker raised his eyebrows. “Diving for fun? You’re brave.”
+Was he flirting with her? “It wasn’t so dangerous, not back then,” Cally said. When she’d had youth, optimism, and a warm body beside her in bed at night. “Before all this. I was an engineer, and we came up with the pumphouse concept. Originally it was intended for sea exploration—even tourism. But—things changed.”
+The war had begun, though they hadn’t realised it, but there’d been hope. Some scientists had continued to believe the first fatal encounters with the Bathyphylax were accidents, misunderstandings, but no-one listened to them—or, later, to those same scientists’ more accurate reports that the Bathyphylax’s actions, far from being motiveless acts of “evil,” were in fact in response to the ongoing destruction of their deep-sea habitats.
+Cally sighed. “I miss it,” she said. “Diving. I’d love to be able to do that again. Maybe one day.” She nodded at her equipment. “If we ever get an answer.”
+“Can’t believe you’re still trying,” said Baker.
+“Yeah.” Pretty foolish, after everything that had happened since. “Something like it on most military pumphouses now. The Contact Programme. Kind of like the SETI Project, but using a narrow-beam transmitter instead of radio—generates a focused shockwave retaining a tight pattern over distance on a continuous loop…”
+Baker’s eyes were glazing over. Cally trailed off; he blinked and coughed. “They ever answered?” he asked.
+“No. But I keep trying. Otherwise…” Cally gestured round. “This goes on till there’s no-one left.”
+She knew how forlorn the hope sounded, but that wasn’t really the point anymore. People survived by internal mechanisms no less intricate than Dunwich’s own: Cally’s processed her grief into this lonely mission of hers, trying to squeeze some hope from the rags of her former life.
+Baker glanced across the bridge, where Harkness remained deep in discussion with Cannonbridge. “So what are they like?”
+“Who?”
+“The Toads.”
+Cally tried not to wince. Whether she liked it or not, it had become the term of choice for the Bathyphylax. The Greek name was a mouthful, after all; besides, it roughly translated as “guardians of the deep,” which was far too glamorous a name for an enemy you were supposed to destroy. “How should I know? No-one’s ever seen one.”
+Baker chewed the inside of his mouth. “I know that’s what they say…”
+“Yeah, because it’s true,” said Cally. “Or if anyone has ever seen one, I’ve never heard of it.”
+“But when the Russians nuked the Marianas Trench…”
+“They were fishing organic remains out of the Pacific for months afterwards, yes, but between decomposition and the radiation damage there was no telling what they’d come from. Half of it was probably ordinary marine life.”
+If the Russians hadn’t nuked the Trench, the Americans or the Chinese would have done it. No matter how many warnings they’d been given of the dangers, no matter the contamination they’d known would spread. How much radiation was in the ecosystem now, seeding tumours in humans round the world? One might even be ticking away in Cally herself, killing at long range in both distance and time.
+“So what do we kn—” Baker began.
+“Mister Baker,” Harkness snapped, “your duties don’t include idle chatter with civilians.”
+Baker went the reddest he’d gone yet and slunk away with a mumbled apology.
+What were they like? All anyone had was guesswork. Cally had attended enough security briefings and, thanks to Ben, grasped enough about marine biology, to be up-to-date with current thinking. Despite the nickname, there was no consensus on Bathyphylax biology: depending on who you asked, they were marine amphibians (a minority view held by one professor from Massachusetts), intelligent octopi, whales, dolphins, or hive-minds of plankton, crustaceans or fish. There was widespread disagreement on much else, too, but it was generally agreed that their technology was organic in nature, due to symbiosis or genetic engineering, and they had, of necessity, a close relationship with their environment. Was it any surprise, then, that the ongoing pollution of the ocean—with sewage, plastic refuse, radioactive waste, dead zones and red tides—had been interpreted as an act of war?
+So the war with the Bathyphylax raged on, and the humans’ leaders, at least, seemed to have no solution to offer other than genocide. And with Ben gone, all Cally had left of him was Breakwater, and her lone, seemingly futile task, transmitting her forlorn appeals for peace and negotiation out into black salt water…
+ 
+II. Shockwaves
+Three hours later, Cally looked up from her desk and called: “Commander?”
+“Yes, Doctor McDonald?”
+“Picking up a Choir.” Cally amplified the faint sounds the hydrophones had detected, reciting the estimated range and bearing. “Signal strength, level four.”
+“Why the hell did none of you lazy bastards get that?” Harkness barked. Cally half-smiled: Dunwich had its own listeners, of course, as its whole raison d’être was defending the coast against the Choirs, but no-one had been listening to the sea—and the Bathyphylax—as long as she. “I want that signal triangulated now. I want its position, and I want to know where that wave’s going.”
+Cally isolated the Choir’s sound, breaking it down for analysis on her laptop. “It’s a big one,” she said. “Three hundred component voices, minimum. At that range it’d be level six or seven if it were facing us, so it’s at right angles, at least. Which puts it in line with”—she brought up an interactive map of the East Anglian coastline on the laptop screen and marked positions—“the area between Lowestoft and Yarmouth.”
+“Get that confirmed,” said Harkness. “Mister Cannonbridge, have all songun batteries stand by.”
+“Picking up two more Choirs,” said Cally, “same approximate range and strength.”
+Harkness snatched up a telephone. “LVR?” she said. “Dunwich Actual. Alert Coastal Command. Three, repeat three, Choirs targeting east coast. Coordinates to follow.”
+“Second Choir’s targeting the Wash,” said Cally. “Number three’s lined up with Harwich Harbour.”
+“Jesus,” someone said. A level six wave-strike on the Wash would devastate King’s Lynn, Boston, and Skegness; a strike on Harwich Harbour would not only destroy the port, but send massive bore-waves up the Stour and the Orwell, perhaps even as far as Ipswich. “Estimate co-ordinates as follows.”
+Triangulation was the tried and true method of pinpointing a Choir’s location, but given experience, a good ear, and some idea of its size, you could estimate the Choir’s range and bearing with some accuracy. Harkness relayed Cally’s figures to the LVR. “Tell Coastal to get their planes airborne,” she said, “and stand by for confirmation.”
+Lieutenant Sugulle, the First Officer, ran up and gave Harkness the final coordinates: they were a near-match to Cally’s. She nodded to herself. Maybe there was another reason Harkness kept her aboard, not that the Commander would ever admit it.
+Harkness gave the LVR the final co-ordinates. “Seek and destroy,” she said. “Mister Cannonbridge, I want full songun cover for Harwich and the Wash.”
+“Already done, ma’am.”
+“Bloody smart-arse.”
+There was a weak ripple of laughter at that, then only silence: nothing else to do now but watch, and wait. For the Coastal Command aircraft to find the Choirs and for the first round of wave-strikes, which the aircraft would be far too late to prevent.
+The Choirs grew louder as they accumulated kinetic energy, ready to release it as a shockwave that would displace tons of water. They were at full volume now, and the longer they “sang,” the bigger the wave would be.
+“It’s gonna be a big fucker,” someone said.
+“Belay that,” said Harkness. “Mister Cannonbridge, are the songuns at full power?”
+“Songun batteries fully charged, reserves at maximum. Ready to divert additional power from non-essential systems if required.”
+Harkness nodded.
+The Choirs droned on. Cally had never known one to go on this long. Then her hydrophones picked up a dull bong, like a huge clock’s chime.
+“Here it comes,” said Harkness.
+Another bong sounded, then another. Out to the east, the waves would be rising. They’d be little more than thick ripples in the water to begin with, a foot high at the most.
+“Coastal Command have visual,” called Sugulle. “LVR relaying signals from DART buoys now. Three wave-strikes, all sixth magnitude.”
+“Same bearings?”
+“Yes, ma’am.”
+“Over to you, Mister Cannonbridge.”
+“Ma’am.”
+A screen on one of the bulkheads depicted the feed from LVR36. Tsunami warning buoys, out at sea, picked up changes in water depth and sent the information, via satellite relay, to the LVR, which generated a composite image of the impending wave-fronts. They were surging landwards now, growing wider and thicker. When they reached the shallows at the coast, the foot-high ripples would become fifty-foot waves.
+Cannonbridge watched, arms folded. He was, Cally had to admit, an artist when it came to deploying the songun batteries. The songuns weren’t, strictly speaking, sonic weapons, but a more powerful variation on the Contact Programme’s shockwave transmitters. At close range, they could crumple or even punch through light armour, but their main use was breaking up wave-strikes before they could come ashore.
+Effective though they were, they were the aspect of Dunwich—as opposed to Breakwater—Cally loathed above all others. They embodied, more than anything else, how her and Ben’s creations had been weaponised. Even the lives they’d saved couldn’t change that.
+Cannonbridge picked up a phone. “Batteries One through Eight, you’re A Group,” he said. “Target midpoint of wave-front bearing on Yarmouth sector. Batteries Nine through Twenty-one, you’re B Group: target midpoint of the Harwich wave. Batteries Twenty-Two through Thirty—C Group—midpoint of wave approaching the Wash. Stand by to fire on my mark. All other batteries are D Group. You’re on mop-up duty today.”
+The wave-fronts expanded, thickened. Cally clutched the arms of her chair.
+“A Group, fire,” said Cannonbridge. There was a dull boom as songuns discharged, and Dunwich’s hull shivered and hummed. Cally’s screen jumped and flickered; she looked up at the wall-screen and the thick, fuzzily glowing bracket of the first wave-front.
+A foggy, whitish blur bloomed in the centre of the bracket, as the songun volley hit home. The bracket broke apart into two smaller, thinner brackets. As they sped on, the blur kept expanding, fading as it did.
+“D Group, fire at will,” said Cannonbridge. Another shudder ran through Dunwich, and one of the smaller waves fuzzed and crumbled away as the other songun batteries, spread throughout the pumphouse’s sprawling structure, opened fire.
+The songun blasts put solid fists of water through the wave-fronts, breaking them into smaller, weaker fragments. Breakwater, indeed: even the name felt tainted. However necessary Dunwich might be, it was part of the machine driving humankind and the Bathyphylax towards mutual destruction.
+B and C Groups fired, smashing through the Harwich and Wash wave-fronts. Cannonbridge directed further salvos at the half-dozen dwindling brackets that had been the Yarmouth wave; they, too, blurred and dissolved before they could hit the coast.
+The songuns kept firing. One by one, the wave-fronts broke apart and faded to nothing. Dunwich began to rattle and rock afresh—not to the hammered-out rhythm of the songuns, but the random surging of a sea stirred into fury by both sides’ fire and counter-fire. Heavy waves would still crash against the East Anglian coast tonight. Roads and farmland would be flooded, homes washed away, lives lost. Another chunk of the land might fall into the sea. But all that was as nothing to the havoc the wave-strikes would have wreaked had they come ashore. Cally had seen it firsthand.
+“That’s the lot,” said Cannonbridge at last. He looked grey-faced, tired. The battle—if it could be called one—had lasted minutes, and yet it had felt like hours—longer, perhaps, to him.
+“Sir?” Sugulle. “Coastal Command. Strikes carried out on Choir positions. They’re dropping salvage markers now.”
+In the morning, when the waters had calmed, ships would search for remains. Not that there was much point. They’d never found anything yet, and even if they did, how were you supposed to tell the remains of a Toad from a piece of their technology?
+“Good work, everybody,” said Harkness, and gave Cally a nod. “Doctor.”
+Cally tipped her butcher-boy cap at her. Harkness turned away with a faint facial twitch—a smile or maybe indigestion, Cally couldn’t decide.
+“That was amazing.” Baker stumbled over to her. The boy almost looked drunk. “You were brilliant.”
+“Thanks.”
+“Buy you a drink at the Mariner’s when we get ashore?”
+“Eh?”
+“You know the Mariner’s Rest?”
+It was a pub, not far from Cally’s static caravan—she lived on land commandeered by the Navy, so it was a popular drinking spot with the Jack (and Jane) Tars. “Oh, yes. Been there a couple of times.” In the afternoons, when the Navy boys wouldn’t be in there getting drunk.
+“Well, maybe go for a drink there?” he mumbled, turning an even brighter shade of red than before. Dear God, she hadn’t imagined it; he was hitting on her. Cally, knowing how easily hurt a young man’s pride was, did her best not to laugh—but then Baker’s smile faded: he was staring past her at the laptop screen.
+She turned and looked. “Oh, shit. Commander!”
+“What is it, Doctor?” Harkness was back to her usual tone of bored disdain.
+“I’m picking up another Chorale,” she said. “No, make that two. Three.”
+“Make your mind up, Doctor—”
+“At least three— the Choirs are grouped in close together. And big—five, six thousand voices each.”
+“Christ’s sake,” Harkness snapped at Sugulle. “Can’t you pick anything up first? Well, then? Range?”
+Cally didn’t answer. Her stomach was hollow, sucked empty by what was on her screen.
+“Doctor McDonald?” Harkness was used to immediate answers. “I asked you a question. I want the range, and the target.”
+“Range: right down our throats,” Cally said. Her own voice sounded far-off, distant, the signal from the depths she’d always hoped for and never heard. “We’re the target.”
+She’d never seen Choirs configured like this before. They weren’t aimed at the surface, but facing towards Dunwich, to discharge a single massive shockwave through the water.
+“Clever bastards,” she murmured. Launch a huge-scale attack as a diversionary manoeuvre, while moving more Choirs in on top of the pumphouse—which would be so focused on the other Choirs it wouldn’t even notice these till it was too late.
+Cannonbridge shouted orders to the songun crews. Harkness yelled something and Klaxons sounded, red lights flashing on the walls. But the Choirs were too close, and there was no time. What, really, could Harkness do? Dunwich was a pumphouse, not a ship; it couldn’t go anywhere.
+Harkness now must feel like Cally so often did—performing her pointless little rituals to tell herself she had control over something, anything. When in fact all they could do, either of them, was sit and wait for the—
+Bong.
+First one, then half a dozen more.
+“Incoming!” Cally shouted. First piece of military-speak she’d willingly used. Probably the last too.
+“Brace for impact,” shouted Harkness. Cally saw the others fumbling at the built-in safety harnesses on their chairs. She unlocked hers and strapped herself in.
+The bridge rocked and juddered—not the big shockwave itself, of course, only the rumblings before it hit. Then the bridge lurched sideways, and Cally would have flown out of her seat if not for the harness. She screamed, but it was lost beneath the blaring Klaxons, the screams of tortured steel and flesh, and the thunder of seawater blasting through the breached hull.
+More screaming, and a smell of salt. Water jetting through buckled plating, a haze of it filling the air. Someone was shouting, Another one. She fumbled at the seatbelt on the chair, tugged it to make sure it was secure.
+“Get that leak sealed,” Harkness shouted, and then the second wave hit. The bulkhead behind her caved inwards, driving Harkness into the catwalk railings with a wet crunch. The bridge shuddered, canting sideways. Rivets popped, and more water spewed into the module.
+“Abandon bridge,” Sugulle shouted. He was next in command. “Mister Baker, evacuate Doctor McDonald. Everyone else, to the auxiliary control module.” He grabbed the phone. “Dunwich to LVR—”
+A third impact shook the bridge, but it was fainter—the main blast had passed them by. They were targeting the LVR too, Cally realised, to leave Dunwich unable to communicate with land or air.
+Cally’s harness wouldn’t unlock. She thrashed against the straps, close to panic. “Hold on!” It was Baker, sawing at the harness with a knife. “Move it,” he shouted as the straps gave way.
+“LVR36?” Sugulle yelled. “LVR, do you read?”
+Baker pulled Cally from the chair. Her cap fell to the deck; she bent and grabbed it, then stumbled after him across the bridge. He ignored the ladder above—even if the transport carts were working, the LVR was almost certainly gone, and with it the pontoon, Cally’s boat, and more than likely the docking station too. Even if Cally’s boat had somehow survived, between the wave-strikes and the songun salvos the sea would be a holocaust that no surface vessel short of a warship would last long in.
+Instead, Baker would be leading her deeper into the pumphouse complex in search of an evacuation pod. Cally had designed them to get crew off a damaged pumphouse and first to the surface, then to shore, alive. They were armoured and padded to cope with the most savage sea, and their internal pressure would adjust automatically to prevent barotrauma.
+Barotrauma: caisson sickness, the bends. That was how Ben had died, when a volley of Bathyphylax wave-strikes had torn through the Caribbean. He’d been overseeing the conversion of Nautilus, an early pumphouse—a scientific research station—into a military installation, when one of the naval vessels patrolling above had capsized and broken its back. When it sank, the wreckage had descended on the pumphouse, and there’d been an explosion—munitions of some kind, no-one had ever quite determined which. It didn’t matter: whatever it was, it crumpled most of Nautilus’s structure like a tin can.
+Caught in a collapsing pumphouse, Ben’s only way out had been through an airlock, in his scuba gear. Even then, he might have survived if he’d ascended to the surface slowly, giving himself time to acclimatise, but the surging waters had driven him to the surface in seconds.
+A fishing boat that somehow managed to weather the storm had found him, but the ship hadn’t had a decompression chamber and the five-man crew had been unable to do anything in the hours that followed but fight frantically to stay afloat. Ben had been laid on a bunk belowdecks, and there’d been no-one to help him as haemorrhages and embolisms had racked and twisted the body Cally had loved to watch finning and diving, lean and sleek and tanned, through the blue Caribbean deep, into a broken, crook’d and crippled thing that, had it lived, could barely have seen or walked or passed a day without drugs or drink to dull the pain.
+No-one had been certain how long Ben had survived. Worse: how long had it seemed to take? Cally had heard all about the agony of it—gas bubbles expanding in the joints, so it felt as though hands were being pushed free of wrists, knees from thighbones. There was said to be almost no pain like it, and Ben had suffered it alone.
+So if the Contact Programme had been an act of mourning for Ben, the evac pod was his memorial, one that might at least save others from such a death. As ever, it was all Cally had, and nowhere near enough.
+Baker pulled her to an airlock, opening the hatch. The bridge jerked and tilted further. Metal screamed. Popped-out rivets flew like bullets and plating tore. Jets of highly-pressurised water spewed through the splitting seams. Harkness’s body hung over the railings, cut almost in two.
+Steel tore and groaned. The bridge shuddered. Baker fell to his knees; Cally landed on her arse. She got back to her feet, reaching for his arm.
+And Dunwich began to hum.
+There was a vibration, rising, making the deck-plates sing in response. Cally’s eyes met Baker’s, and saw he understood too. Something was coming. Something was almost here.
+“LVR?” Sugulle was screaming now. “LVR, come in!”
+Baker pushed Cally into the airlock as the shockwave hit. All three Choirs must have fired together: the whole side of the bridge opposite Cally burst inward. Harkness’s upper body fell to the deck, the plates of which tore and separated before the force of the wave. For a split second the black glittering sea seemed to hang suspended outside the hull, as if waiting to show itself to her, then came crashing in. Sugulle vanished, swept from sight.
+Baker didn’t even attempt to enter the airlock. There was no time. Instead he slammed it in Cally’s face.
+Cally saw him, through the toughened glass, face furrowed in effort. The hatch wheel turned and locked. Then the wave hit him and his face slammed into the glass, flattened and split apart.
+Red.
+The bridge lights went out, and there was only the black water.
+ 
+III. Hanover
+Cally slammed the airlock’s second hatch. Dunwich gave a fresh lurch as another blow smashed into it, and then another. The corridor fluorescents flickered each time.
+The power plant, she realised, stumbling towards the next airlock. With the bridge destroyed, the pumphouse’s power supply would be the Toads’ next logical target. Whether or not Cannonbridge had made it out, the songuns were individually controlled and could at least have attempted counter-fire, but without power they’d be useless, leaving the pumphouse and the entire southeast coast open to attack.
+She was clutching her cap. Had the second it had taken her to snatch it up prevented Baker from getting into the airlock too? He might have survived, if she hadn’t—
+Cally was tempted to throw the cap away, but didn’t. If it had cost Baker his life, she had no right to leave it behind. She put it back on.
+More blows hit the pumphouse. Cannonbridge and the others were trained to fight, and she wasn’t. Cally’s only role here had been communication, which seemed to be held equally in contempt by both sides.
+She climbed through two more modules to reach a junction. The bright yellow arrows painted on the bulkheads pointed off towards the connecting modules, but that was all they told her.
+Breakwater was Cally’s creation, not Dunwich. She’d had no desire to familiarise herself with what had become of Ben’s memorial, so the layout of the pumphouse beyond the bridge was almost completely unknown to her. That might get her killed now.
+She took the right-hand fork, stumbling as another wave-strike hit. The module shuddered; metal creaked and cracked. The fluorescents jumped and danced.
+Cally stopped. First the bridge, then the power plant: she might not know her way around Dunwich, but the Toads clearly did. This had been a precision attack.
+Three more impacts followed, one after the other, and the lights flickered out.
+Cally stood in darkness, as around her the pumphouse stabilised but for the hull’s distant creaking. About a minute later, the lights came back on.
+Cally breathed out. Each module had a built-in battery to keep essential systems running. For now, anyway: thank Christ that was working as it should be.
+At the end of the module was a ladder leading upwards. Cally clambered up it into a Type 2 with an alarmingly tilted floor. More ladders led up to ceiling hatches marked EVAC, but each already had a red flag in its glass window, signalling that the pod had ejected.
+More shocks hit the pumphouse. Cally yelped, clutching for a handhold. Far away she heard rushing water and a dull knocking; then they subsided, and the only sound was the pumphouse’s slow, faint creaking.
+The auxiliary command module, maybe, in case Cannonbridge and the rest had made it there. Cally braced herself for another strike, but nothing followed. There was no need. The Toads—no, the Bathyphylax, she wouldn’t keep using that slur—might finish the job later, but with the pumphouse crippled the attack was over for now. For Dunwich, at least: for the Suffolk coast, it might only have begun.
+Which made finding a pod all the more imperative. If the T— the Bathyphylax were about to launch a full-scale assault, no-one ashore would even think of a rescue mission to Dunwich till it was too late for anyone who remained aboard.
+Even as Cally considered that, Dunwich groaned and shuddered, and the deck tilted further. “Not good,” she muttered. She’d seen this before. The damage already done would be putting what was left of the pumphouse’s structure under ever-increasing strain as the disturbed waters raged. Sooner or later, other sections would give way, and a chain reaction would begin. It might happen quickly or slowly, but would almost certainly end in a major structural collapse.
+She mustn’t think, just act. The internal machinery that had sustained Cally for so long was no less shattered than the pumphouse itself. There was a chart on the wall—when she went and looked, she saw it showed some of the station’s layout. Some bloody common sense at last. Or had it been? Cally eyed the portholes in the module. Was that how the Bathyphylax had known where to hit? Had that been all they’d had to do, look in through a porthole, to learn every weak spot on the station? Their organic technology made anything in the sea a potential enemy.
+She could puzzle over it later, if she lived. The chart showed the location of the next evacuation point: that was what mattered now.
+The journey should have taken no more than twenty minutes, but before long she reached the first obstacle. Inside one of the modules along her route, the lights glowed through a fog of murky water. Three blurred limp shapes drifted in it, arms and legs dangling. Cally thought of Ben, and looked away.
+A particularly alarming screech of tortured metal sounded. Move, Cally. If she’d read the layout plans correctly, another section ran underneath the one she was in now—she could travel under the flooded section, come up into the next clear module.
+Cally opened the floor hatch and climbed down. Seawater was trickling in through some joins in the vertical module that should have been watertight. She sealed the airlock hatches behind her and crossed the module below the flooded one. When she found the ceiling hatchway at the end, she reached up for the locking wheel, grinning as she did—she was making her way, slowly but surely, a section at a time—
+Cally only remembered as the wheel turned that she’d forgotten to look through the glass panel to check whether that module, too, had flooded or not. She tried to resecure the wheel, but the weight of the water was too much. Stupid, she thought, and threw herself backward.
+The cover flew open—away from Cally, thank Christ, or she’d have been flattened outright—and a surge of water burst out, threatening to sweep Cally’s legs from under her, but there was a dull clang and the gush of water tailed off, revealing a coughing, spluttering figure dangling from the hatchway. A woman, in sodden greyish coveralls: short black hair plastered to her scalp, a sharp face and large dark eyes.
+“Hey,” said the woman, then let go of her handhold and dropped to the deck with a thud and a splash. She squinted up at the airlock above, then shut the outer cover, twisting the wheel to lock it behind her.
+She swayed, stumbled, and Cally started towards her. “Are you okay?”
+The woman nodded and took deep gulps of air, hands on hips. She was big-shouldered for a woman, with well-muscled arms, but lean and compact. “Just about,” she said at last, then sagged against the bulkhead and gave Cally a grin. “Bloody stupid, that—opening the hatch without checking—but good job you did else I’d be fucked.” She jerked her chin upward. “I was in the airlock when the module started flooding. Ended up trying to get the inner hatch shut and the outer one open at the same time. Not a great idea, but I was in a rush.” She spat. “Christ. Can’t get the taste of it out of your mouth. As the actress said to the bishop.” She winked and stuck out a hand. “Chief Petty Officer Hanover.”
+“I’m—”
+“Doctor McDonald. Right?”
+“How did—?”
+“Military base,” said Hanover. “Only one civvy on board. ’Sides, you’re not exactly unknown. Seen your pic online.”
+“Oh. Of course.” Cally had never wanted her share of celebrity, and did her best to pretend it didn’t exist. It wasn’t as hard as it might have been. She lived out of a static caravan as near the coast as she safely could, in a restricted area inhabited only by those with a special dispensation from the military. One small perk of who she was, and it brought her a little solitude and peace. She and Ben had honeymooned in that very field, camping out in a tent. All she had were fragments of what had died that day; she clung on to as much as she could.
+“What’s the sitch, then?” said Hanover, squeezing the worst of the water from her hair; it stuck up now in spikes. “You were on the bridge, weren’t you?”
+“The bridge is gone. Harkness is dead—Sugulle, too. Cannonbridge might have got out.”
+“Thought so. About the bridge, I mean. Could tell where the impacts were. Bridge, power plant, auxiliary command. The Holy Trinity.” Hanover shook her head. “Knew what they were doing, didn’t they?”
+“What I thought.” Cally leant back against the bulkhead, closing her eyes. No time to relax, she knew—they were still trapped in the pumphouse, and the Bathyphylax might decide to finish the job at any moment—but there was something calming about Hanover. She was a professional, after all. If she could find humour in this, there had to be a chance of survival.
+“So,” said Hanover. “There’s an evac point that-a-way, but you were coming from there, so I’m guessing we’ve missed the boat.”
+Cally nodded. “Trying to find the next one.”
+“You’re in luck, then, hun.” Hanover beckoned Cally along the corridor, under the dripping hatch. “Anyone knows their way around here, it’s me. Now—nearest evac point’s in G-3, so we need to go…” Hanover squatted, looking left, right, up and down. “That way.” She nodded up and to the right, then sprang to her feet.
+Bloody hell, she was in good shape, thought Cally—near-drowned less than five minutes ago, now up and about as if nothing had happened. Not that young, either. A couple years younger than Cally, at best. Crow’s feet at the eye-corners, silver glints in the glossy black spikes of drying hair. Probably a vegan or something.
+“Looks clear,” said Hanover, squinting through the glass panel, then spun the wheel and opened the hatch. Cally followed her into the airlock. Hanover looked through the panel in the inner hatch. “Yup, clear. See, Doc? That’s how you do it without drowning yourself.”
+Cally felt her face burn. She shut the outer hatch shut behind them.
+It should have been no more than a fifteen or twenty minute journey to G-3, but with multiple modules breached, flooded, or torn completely free of the structure, they had to make repeated detours—which, like as not, brought them to another breached or missing section. Cally had soon lost her bearings, but Hanover never seemed thrown for a second.
+“Here we are,” she called at last, opening a ceiling hatch. “Nearly home and dry.” She looked back, grinned at Cally. “Emphasis on the dry.”
+“Amen to that,” Cally muttered, though she expected Hanover would be even gladder. The Chief Petty Officer’s damp clothing clung to her tightly, and particularly to her firm, round bottom, which Cally had a fairly magnificent view of as it swayed above her on the ladder.
+She’d never made a secret of her sexuality with Ben. University had been where she’d begun to shake off her rather repressive religious upbringing; unlike some, she hadn’t shagged everything that moved, but there’d been a couple of longish relationships, and for one awkward month she’d secretly dated a lean, pale dyke called Paula. It hadn’t lasted—Paula had, understandably, wanted a girlfriend who wasn’t afraid to be seen as one, and Cally had been far too concerned about her parents finding out and the reaction of the church congregation back home. A pity. Paula had been a nice girl and a good lover. Come to think of it, Hanover looked a little like her.
+A few years out from college Cally had met Ben, and that had been that: bi or not, she was the old-fashioned monogamous type, despite all Ben’s half-serious joking about threesomes. The emotional intimacy she’d shared with Ben had been what mattered. Of course she’d felt desire since he’d died, but it had never been anything more than an itch to scratch. In so many ways, she knew, she was frozen at the point of loss, unable to move on; she couldn’t remember the last time a flesh-and-blood human had inspired any lust in her.
+Until now, when she was responding to Hanover’s lean, lithe body as she hadn’t in years. Looking at those buttocks swaying above her, Cally pictured them bare and white—and beneath them, at the juncture of Hanover’s thighs, the ripe swell of the mons Veneris, the lush thatch of wiry black hair—
+Jesus Christ, McDonald, get a fucking grip.
+Hanover hung one-handed from a ladder rung above her. “You okay down there, Doc?”
+“Fine.”
+“Looking a bit flushed.” Hanover grinned. “Let me know if you need cooling down.” And then she was back to climbing: did Cally imagine it, or did the other woman put an extra wiggle in her behind? Cally shook her head and followed. Maybe Hanover had good gaydar and wanted to add a little extra motivation. If so, Cally had to admit, it wasn’t doing any harm.
+Hanover reached the airlock above and opened the outer hatch. “Oh, shit,” she said. Before Cally could ask what had happened she no longer needed to—thin streams of cold salt water trickled down from above.
+“Flooded.” Hanover slammed the hatch and locked the wheel. “Back the way we came, Doc, and fast.”
+Cally’s foot slipped as she climbed down, and she cried out, falling. “Whoa!” yelled Hanover; Cally wasn’t sure quite what she did or how, but a strong arm snagged her around the waist, pulling her close up against Hanover, whose free hand gripped the rung above Cally’s head, her booted feet braced against the wall.
+“Jeez,” said Hanover. Hot breath, a little sour, but with a hint of spice that wasn’t unpleasant at all. “Don’t go scaring me like that, Doc.”
+They were two or three feet above the deck. Cally felt the heat of Hanover’s body, the strength of her arm, the warm deep dark of her eyes. She’s going to kiss me, Cally thought, and for a moment it seemed Hanover really would, but instead she said, “No point hanging around,” and let go of the rung. They landed in a crouch, or rather, Hanover did. Her grip prevented Cally from going sprawling.
+Cally wriggled free, brushed herself down, and stood up straight. “Where now? There’s got to be some more pods somewhere.”
+“There’s an evac point not far from here,” said Hanover, “but it was right under the power plant. Chances are that’s gone too. Next nearest’s in T-8. Good-sized trek, and fuck knows what state the place is in between here and there. Longer we’re down here…”
+“…the worse the odds get,” said Cally. The pumphouse shook and shifted, and there was a faint, far-off rumble as another part of the structure failed. And then Dunwich was back at rest, at least for now. “So we get to T-8 ASAP?”
+“ASAFP,” Hanover corrected. “C’mon.”
+The next few hours were a weary blur—tramping down corridor after corridor, climbing up or down ladder after ladder. They went forwards, sometimes backwards, sideways, upwards, left and right. No sooner did they detour around one obstruction and get back on course, they’d encounter another flooded or destroyed section. The constant stop-and-start was more tiring than continuous walking would have been.
+During one brief stop, Cally looked out through the porthole at the devastation wreaked by the attack. Modules lay crumpled and torn apart, and the structure sagged and listed. Sometimes a flurry of silver bubbles would escape as a seam or seal gave way and the sea rushed in. And then another shudder would rumble through the damaged structure as another part of it grew heavier, and fresh creaks and groans would sound.
+The rest of Dunwich was visible only by the fitful glow of rig-lights through the murky swell—the sea was heaving and debris swirled around the pumphouse. In it Cally could make out human shapes. They looked as though they were dancing, but it was only the current, working their limbs like a puppeteer.
+What if she couldn’t get to an evac pod? Bail out of a hatch and hope for the best? Even with diving gear, those waters would either drown her or fling her up to the surface too fast, to endure a death like Ben’s. Christ, better to drown than that. Either way, though, if there was anything afterward—silly to believe it, she knew, but that didn’t kill the hope—she’d be with him.
+“Come on, Doc.” Hanover clapped her on the shoulder.
+“Call me Cally, okay?”
+Hanover smiled. “Okay. Cally.”
+“What do I call you?”
+“Plenty of options. Chief, Bitchface, Slut Puppy—”
+“Slut Puppy?”
+Hanover winked. “I’ll never tell.”
+“Haven’t you got a first name?”
+“Course.” Hanover started down the corridor. “My friends call me Jen, D— Cally. Now, best foot forward. If we’re home in time, you can buy me a double Kraken at the Mariner’s Rest.”
+Cally laughed. “Be glad to.”
+Cally lost count of how many sections they’d passed through before Hanover said anything else. “We’re getting close, Doc. Should be there in—”
+She broke off, holding up a hand. The pumphouse’s creaking and groaning was getting louder and higher—and closer.
+“Shit,” said Hanover. “This is it.” She went to the porthole, and Cally saw her tense up. The section they were in shuddered, tilting.
+“Down here.” Hanover grabbed Cally’s arm, flung a floor hatch open. “Move that sexy bum of yours, Doc.”
+Hanover pulled her bra and vest top back down. “Best get a shift on. We’ve not far to go now. Depending on the state of what’s left of the old girl, we— Cally? What’s up, Doc?”
+Hanover finally noticed the damage to her arm. “Ah,” she said. “Bollocks.”
+In one fluid motion, Hanover stood, sliding from her coveralls like a snake shedding skin. She stepped clear of them, now wearing only the vest top and tight black shorts. Her white feet, slender and beautiful—high arches, long toes—slid out of her boots and socks as if boneless.
+The cap slipped from Cally’s hands, fell to the deck with a wet slap.
+There was a moist squelching sound as Hanover pressed the skin flap back into place and pinched the wound’s edges together. It was matter-of-fact: another piece of maintenance. She looked up. Cally couldn’t decipher the look on her face. “Sorry, hun,” Hanover said, and white nictitating membranes darted across her eyes.
+Hanover stepped forward, and Cally turned and ran.
+The hands that had loved and pleasured Cally last night would now be inches from her neck. Cally yanked the nearest airlock hatch wide, leapt through, and slammed it in Hanover’s face. She locked it, then dashed through the outer hatch and shut that too.
+In the module beyond the airlock, a crowbar was mounted to the wall beside the hatch. Cally jammed it through the hatch wheel and backed away. The wheel part-turned a couple more times, then stopped. “Doc?” called Hanover. “Cally? Hun?”
+Cally kept backing away.
+“Come on, chica, can we at least talk about this?”
+Like fuck. Cally ran. Her lungs blazed, and she was soon staggering. A coughing fit doubled her up. She was sure she saw blood in the brownish phlegm she spat to the deck. Pneumonia. Had to be. Hot, feverish. She wanted to vomit. Heart thundering. Could barely breathe.
+Couldn’t follow Hanover now. Have to find her own way there. Hanover had said they weren’t far, but why would she tell the truth? She was a Toad, or something the Toads had made—
+Cally climbed up through a ceiling hatch. Found another crowbar, which she used to jam the locking wheel. Then she climbed on up to the horizontal module above. Her hands were slippery with fever-sweat, and she was weakening—pulling herself up the ladder was exhausting and she nearly fell twice.
+Which way now? Pick a direction. Any fucking direction, as long as you keep moving. She looked both ways along the dim-lit corridor. Left or right? She ran to the right, started turning the wheel.
+A knocking sound, and the scanty glow falling through the porthole dimmed. Cally turned, and saw Hanover looking in at her from outside the module.
+She hung in the water, pressed against the hull. The nictitating membranes flashed white across her eyes. They were black and shiny now like polished coal: shark’s eyes, the better to see in the gloom. Dropping the pretence, now the truth was out. Three bloodless slits, like knife-cuts, pulsed gently in Hanover’s neck: gills.
+Hanover kept knocking on the porthole, still wearing that strange look Cally couldn’t interpret. Cally, Hanover mouthed; silver bubbles flurried from her mouth.
+Cally jerked the airlock open and went through. She didn’t shut it, much less lock or jam it. What would be the point?
+Where was she now? Closer to T-8, or farther away?
+She was halfway along the next module when the floor hatch flew open. Water splashed out of it, and two pale hands reached out and clutched the decking, each attached to a pale, muscular arm. The hands pushed down. The arms flexed. Hanover’s head and shoulders emerged, dripping wet.
+“Ugh,” spat Hanover, climbing out. “Can’t get the taste out of your mouth.”
+Cally cried out, ran back the way she’d come. Running in a straight line. Need to stop. Go up. Next level.
+She found a hatch above her, climbed. Afraid to look out of the portholes, afraid not to. If she didn’t look, she wouldn’t see Hanover following; if she did, she would. Suck that, Schrödinger.
+Cally stumbled along the next level. She found another large module, but it was a transport station—a disabled one, the airlocks all snapped shut. No evac pods. Where now?
+Whoever did the directions in here needs shooting. Maybe that had been Hanover too. No saying how long she’d been here, doing the Toads’ work. Had she said how long she’d served on Dunwich? What if she had? Why believe anything she’d said? Even if Hanover wasn’t the direct cause of Breakwater’s destruction, she was part of it. Yet she’d saved Cally, and more than once. None of it made sense.
+The module beyond the nearest hatch was filled with seawater. Cally made for the next hatchway—but then it swung open, water spilling out across the deck, and the smell of the sea filled the station.
+A bare foot emerged from the open hatchway to rest upon the deck. A white leg followed, and Hanover stepped out, in her vest top and shorts, gills pulsing in her neck, coal-black eyes flickering white. Cally dodged towards the next nearest remaining hatchway, but Hanover moved to cut her off. She stood, arms outspread. The look on her face was the same as before, and at last Cally recognised it as one of sorrow.
+Cally found herself crying as she backed away. Was it fear, or something else? This had been the closest she’d come since Ben’s death to giving herself to another person. There were a hundred reasons why it might never have been more than a brief ecstatic fumble in the dark, but even so, Hanover was—had been—a woman Cally could have loved. Except she hadn’t been a woman at all.
+Hanover kept moving, blocking Cally from first one exit, then another. Bitch—oh, you bitch. Haven’t you tortured me enough?
+Hanover stopped. Cally retreated, till another hatch cover dug into her spine. Hanover spread her hands, stepping back. Bitch is playing with me. A cat, tormenting a wounded mouse. But there was no option but to play. Cally lurched through the hatch and slammed it behind her, spinning the wheel to lock it. She knew even as she did so that it wouldn’t stop Hanover, would barely slow her down. But she did it anyway, and then ran on.
+Her lungs burned; her legs ached. Cally staggered on, vision blurring. A lithe white shape flitted past the portholes. How was Hanover doing that? Inside one moment, outside the next. Was there more than one of her, was that it? Had Cally slept with one of a range of identical models, cranked out on an undersea production line?
+She found another ceiling hatch, climbed up another vertical module and emerged into a horizontal module. A plaque on the wall—S-7. One more level. One more section.
+Each breath burned. Cally hunched over, coughing. She wasn’t sure how she stood or moved. She wheezed, and pain shot through her chest.
+Behind her, a hatch clanged. Hanover walked slowly towards her. She could go much faster. Wouldn’t stand a chance, state I’m in.
+Cruelty, perhaps—that sad expression could have been as much a forgery as the rest of Hanover’s semblance of humanity. Or was she letting Cally exhaust herself, to do Hanover’s job for her?
+Didn’t matter. None of it did. Part of Cally would have liked to give up, but she couldn’t. She actually wanted to live, she realised, not only to exist. Hell of a time to find that out.
+Was Hanover herding her? Was that it? Always in Cally’s path whenever she wanted to be. In the station before—she’d put herself between Cally and every exit except the one she’d used—one that, like every other turning she’d taken to evade Hanover, had brought her closer to T-8. Almost as if Hanover were helping her.
+Cally entered yet another module; the airlock at the far end opened and Hanover stepped through. “Fuck off!” Cally screamed.
+Was she really alone on Dunwich? Was everyone else dead or gone? It didn’t seem possible. But between the attack, the evacuation that would have followed, and the collapse, it could be—with or without Hanover and others like her to make certain of it. But Hanover could have killed Cally a dozen times, or simply let her die.
+Above Cally was a hatch. She clambered up through it with what felt like the last of her strength. Shaking. Burning hot. Shivering. Every breath was a knife going in, was broken glass raking her lungs. Her arms and legs were sacks filled with rocks and lead. But the hatch above came closer; finally she pushed it open, dragged herself through and stood on trembling legs.
+Burning with fever. Shaking with cold. A bulkhead plaque swam into focus:
+T-8.
+Cally laughed weakly; it turned into another coughing fit. Nearly there. Left? Right?
+Cally heard the hatch to her left unlock. She turned and blundered away from it towards the opposite hatchway, hoping to God she was almost there. She had no more strength.
+She collapsed into the airlock, then grabbed and turned the inner hatch’s wheel and pushed it wide. Her vision blurring, she looked back, to see Hanover’s bare feet slapping the steel deck as she ran towards her.
+Cally fell through the hatchway, got to her feet as Hanover reached the airlock, threw her full weight against the hatch and slammed it shut. She twisted the wheel till it would turn no further. She found another crowbar on the wall and jammed it through the wheel.
+Cally looked up, and saw there were EVAC hatches in the ceiling. A couple had red flags in them, but most of the pods were in place.
+Cally began to laugh. It broke up and tailed away in a fresh coughing fit. She was nearly away (but even then, would Hanover pursue her?). All she had to do now was to climb to one of the evac pods. Should she grab another crowbar to defend herself? (And could she strike, even now, a killing blow at that face?) But her legs buckled beneath her and she grabbed an evac ladder for support. For a few seconds she hung from it, until her grip broke and she fell to the floor.
+Get up. Get up!
+She couldn’t. She literally didn’t have the strength. She heard a wet squelching and trickling noise. Then it changed, became something firmer, more regular. A gentle padding sound, like bare feet on a steel floor.
+Cally heaved herself onto her back, coughing.
+Chief Petty Officer Jen Hanover stood in front of the closed airlock. “Hello, babe,” she said, and walked towards Cally.
+Cally tried to wriggle away. Hanover knelt by her, a hand on her shoulder. “Shh,” she said. “Easy, Doc.”
+Cally’s breath hitched. She was hyperventilating. A cool hand rested on her forehead. “You’re burning up,” said Hanover.
+Shecouldn’t move now. Rabbit in the headlights. All she could see were the black shark’s eyes, fixing her still. She fought for breath, and could only wheeze.
+“Cally?” said Hanover. “Love? What’s—” She put a hand to her throat, felt the gill-slits. “Shit. Sorry.”
+The gill-slits closed. For a moment there were pale ridges, like scars, on Hanover’s neck; then they smoothed away into her skin. The nictitating membranes flickered. When they retracted, Hanover’s eyes were the ones Cally had yearned to look into last night. “Better?” Hanover asked.
+Cally struggled in her grip. “Don’t, love,” Hanover said. “You’ll hurt yourself.”
+Cally tried to speak, couldn’t. “Jesus,” she heard Hanover say. “You’re in a bad way. You’re not gonna make it…”
+Her voice faded. Cally thought Hanover might have said, Unless… but could make out nothing else. Laid out across her knees, Cally saw the other woman peel the vest top off, then reach behind her back to unfasten her bra.
+What are you doing? she tried to say, but only a mumble came out. Hanover laid the bra aside, small breasts taut from the cold, the dark nipples hard. “It’s okay,” she said, stroking Cally’s forehead. “C’mere, darling.”
+She lifted Cally’s head to her breast, bringing her nipple to Cally’s mouth. No, thought Cally, no. But Hanover’s hands were as insistent as they were gentle, and soon Cally, despite herself, no longer wanted to resist.
+She took the nipple in her mouth. It tasted of something Cally couldn’t place. A strange flavour, unfamiliar, but not unpleasant. Almost instinctively, Cally began to suckle.
+The fluid that filled her mouth was smooth and creamy, but somehow salty, too. It tasted rich, savoury. Impossible, surely. Wouldn’t the brine sour the cream? And yet it was both delicious and warming—although it was streaming in impossible quantities from Hanover’s breast, faster than Cally could swallow it. Drowning, she thought. But Hanover’s hands stroked her hair. If this was dying, it was easy and painless enough. Cally had no more strength to fight, so she closed her eyes and slept.
+VII. Landfall
+The wave-strikes had wreaked havoc on shipping and swept more than a hundred people out to sea, which was why a search and rescue chopper was over the North Sea when the pod’s distress signal began sending. Hope had been more or less abandoned of finding any survivors from HMS Dunwich, other than the few who’d escaped the initial assault, but the helicopter was no more than twenty miles from Cally’s position and the pilot altered course to investigate.
+So, less than thirty minutes after jettisoning, Cally was winched aboard, a blanket draped around her shoulders and a mug of hot soup pressed into her hands.
+Below her, the evac pod receded, bobbing in the sea, as the helicopter began its return to base. Would the pod reach land? As with so much else, that was uncertain; hidden, like the wreckage of Dunwich. Like Breakwater, buried under waves the colour of slate and lead.
+As they reached the coast, Cally saw more cliffs had collapsed into the sea. Vast chunks had been bitten out of the restricted area. She couldn’t tell if the field containing her caravan had fallen. She looked away; she didn’t want to know, not yet. Could she bear losing another connection to Ben? Actually, she realised, she probably could, if she must. She’d borne far worse.
+She straightened the cap on her head. It might be the last thing of his she had. If you could survive the calamity, you could crawl from the wreckage. Or hide in it, if you preferred, but she’d done enough of that.
+Inland, the flooding was even worse. Neither Cally nor anyone else would drink in the Mariner’s Rest again: only one white wall and a chimney remained of it. Treetops, church spires and chimney pots poked out of brown water. A cow bobbed, belly bloated, legs jutting stiffly up. Human bodies floated there too. This would be remembered, and the desire for retaliation in kind deepen.
+She squeezed the shell in her jeans pocket. Perhaps it was too little, too late, and the only future was a war without end. Against all reason and evidence, she had to hope otherwise. Cally clasped the shell tighter as she flew towards landfall, and savoured that remembered taste of milk and brine.
+
